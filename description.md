@@ -1,4 +1,4 @@
-## The 21st Century Academic: Smart, Savvy and Social
+## The 21st Century Academic: Smart, Savvy and Social.
 Created by: [Ginny Barbour](https://twitter.com/ginnybarbour) [(AOASG)](https://twitter.com/openaccess_anz); Nerida Quatermass [(Creative Commons Australia)](http://creativecommons.org.au/) and [QUT library](https://www.library.qut.edu.au/); [Katya Henry](https://twitter.com/katyahenry) [QUT library](https://www.library.qut.edu.au/);[Sandra Fry](https://twitter.com/fryzy68), QUT Library and AOASG; and [Siobhann Mccafferty](https://twitter.com/SMcCupOfTea) [ARDC](https://ardc.edu.au/). Based on workshops in 2017 and 2018 by [Ginny Barbour](https://twitter.com/ginnybarbour) [(AOASG)](https://twitter.com/openaccess_anz) and [Natasha Simons](https://twitter.com/n_simons) (ARDC, then ANDS).
  
 This workshop was delivered on Wed 10 July 2019 as part of the 2019 [Brisbane Research Bazaar](https://resbaz.github.io/resbaz2019/brisbane/), at QUT Gardens Point, Brisbane.
