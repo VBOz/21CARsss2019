@@ -51,6 +51,8 @@ In this half-day workshop, you will learn:
 <tr> 
   <td valign="top">2:10 - 2:40 pm</td>
   <td valign="top"><strong>Persistent identifiers and research explained</strong>
+   
+   [Presentation here](https://github.com/VBOz/21CARsss2019/blob/master/ResBaz%202019%20PIDs%20.pptx)
   
 - DOIs
 - https://doi.org/10.4225/08/5858219e78f9a
@@ -69,8 +71,11 @@ In this half-day workshop, you will learn:
  </tr>
 <tr>
 <td valign="top">2:40-3:10pm </td>
-<td valign="top"><strong>Applying the [Think, Check, Submit](http://thinkchecksubmit.org/) framework when publishing your research</strong> 
+<td valign="top"><strong>Applying the Think, Check, Submit framework when publishing your research</strong> 
+ 
+ [Presentation here](https://github.com/VBOz/21CARsss2019/blob/master/PRE_21stCAcademic_KatyaHenry_20190710.pdf)
 
+- [Think, Check, Submit](http://thinkchecksubmit.org/) 
 - Responsible Metrics
 - [Scimago journal search](http://www.scimagojr.com/)
 - [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
@@ -85,15 +90,18 @@ In this half-day workshop, you will learn:
 <tr>
 <td valign="top">3:10 - 3:30</td>
 <td valign="top"><strong>The evolving world of peer review, Publons, preprints, and triaging review invites</strong>
+ 
+ [Presentation here](https://github.com/VBOz/21CARsss2019/blob/master/Barbour_ResBazBris%20Evolving%20Peer%20review_2019.pptx)
 
-Reading 
 - [A multi-disciplinary perspective on emergent and future innovations in peer review](https://f1000research.com/articles/6-1151/v3)
-  Hands on activities:
-Go to [Publons](https://publons.com/)
-Sign in, or sign up
-Or explore your institution to see who is reviewing what.
+ 
+ <em>Hands on activities</em>
+ 
+Go to [Publons](https://publons.com/) 
+- Sign in, or sign up
+- Or explore your institution to see who is reviewing what.
 
-Go to  a preprint site and browse preprints
+Go to a preprint site and browse preprints
 - [ASAPBio](http://asapbio.org/) 
 - [OSF Preprints](https://osf.io/preprints)
 - [List of preprint policies](https://transpose-publishing.github.io)
@@ -112,9 +120,10 @@ Go to  a preprint site and browse preprints
   <td valign="top">4:00 - 4:30</td>
   <td valign="top"><strong>How to licence your work using Creative Commons</strong>
   
-Hands on activities:
-If you have something you would like to license using CC bring it out!
-This is the [workshop material](https://drive.google.com/file/d/1Me4ciruL8VBrSUPGy54HFMpYERWdzhav/view?usp=sharing) which you are welcome to take and re-use!</td>
+<em>Hands on activities</em>
+
+- If you have something you would like to license using CC bring it out!
+- This is the [workshop material](https://drive.google.com/file/d/1Me4ciruL8VBrSUPGy54HFMpYERWdzhav/view?usp=sharing) which you are welcome to take and re-use!</td>
    <td valign="top">Nerida Quatermass</td>
   </tr>  
  <tr> 
@@ -126,12 +135,17 @@ This is the [workshop material](https://drive.google.com/file/d/1Me4ciruL8VBrSUP
 - Open access
 - Twitter and blogs 
 - The Conversation type sites
+
+[Presentation here](https://github.com/VBOz/21CARsss2019/blob/master/Barbour_ResBazBris%20Sharing%20and%20Promoting_2019.pptx)
+
 - Pitch your idea to a journalist
 
-Hands on activities:
-Write a tweet for your work
-Write a blog pitch for your work
-Do a live pitch!
+[Presentation here](https://github.com/VBOz/21CARsss2019/blob/master/SandraFry-Smartsavvysocial%202019.pptx)
+
+<em>Hands on activities</em>
+- Write a tweet for your work
+- Write a blog pitch for your work
+- Do a live pitch!
 
 Links:
 - [AOASG on Twitter](twitter.com/openaccess_anz)
